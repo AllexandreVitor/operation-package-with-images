@@ -2,6 +2,7 @@
 
 Description. 
 The package package_name is used to:
+
 	- Add same size images
 	- Subtract same size images
 
